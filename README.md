@@ -1,4 +1,4 @@
-### Project ongoing...🥀
+### Project ongoing...
 
 This project is for people that want to use MLflow to evaluate their RAG pipeline.
 

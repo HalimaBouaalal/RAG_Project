@@ -1,0 +1,17 @@
+channels:
+- defaults
+- conda-forge
+dependencies:
+- python=3.12.2
+- mlflow
+- torch==2.5.1
+- pandas
+- pip
+- pip:
+  - mlflow==2.19.0
+  - llama-index
+  - llama-index-core
+  - llama-index-llms-ollama
+  - llama-index-retrievers-bm25
+  - scikit-learn
+  - einops
